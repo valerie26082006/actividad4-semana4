@@ -1,0 +1,8 @@
+Es fundamental para garantizar su soberania tecnologica y adaptabilidad.
+Al no depender de sofware propietario, los colectivos evitan costos de licencias y protegen la privacidad de sus datos, 
+Amoblando el codigo a sus problematicas reales.
+Especificamente, este entorno destaca por usar javascript tanto en el servidor como en el navegador.
+esto reduce la curva de aprendizaje, permitiendo que ciudadanos sin experiencia avanzada colaboren activamente.
+ademas su arquitectura eficiente facilta la creacion de plataformas en tiempo real,
+ideales para codrdinar alertas comunitarias. el ecosistema de codigo abierto democratiza la innovacion,
+permiiendo que soluciones locales se replique globalmente.
